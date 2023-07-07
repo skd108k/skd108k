@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaileshkumar Dahekar</h1>
-<h3 align="center">An aspiring Software Developer with a passion of  Web Development from India</h3>
+<!-- <h3 align="center">An aspiring Software Developer with a passion of  Web Development from India</h3> -->
+
+- 🔭 I’m currently working on [The-Shoe-Emporium](https://github.com/skd108k/The-Shoe-Emporium)
 
 - 🌱 I’m currently learning **React**
 
@@ -7,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://www.linkedin.com/in/shaileshkumar-dahekar-2a6648205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="//www.linkedin.com/in/shaileshkumar-dahekar-2a6648205" height="30" width="40" /></a>
 <a href="https://leetcode.com/shailesh18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shailesh18" height="30" width="40" /></a>
 </p>
